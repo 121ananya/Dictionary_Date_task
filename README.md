@@ -1,7 +1,9 @@
 # Dictionary_Date_task
 
 After cloning the repository perform npm i to install the mandatory packages
+
 Inorder to run javascript file on cmd:npm index.js
+
 Inorder to run unit test :jest solution.test.js
 
 
